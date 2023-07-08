@@ -142,6 +142,17 @@ li {
 }
 
 .plan-exp{
-    margin-right: 160px;
+    margin-right: 150px;
     margin-bottom: 80px;
+    margin-left: 20px;
 }
+
+.color-img{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 320px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+
+}
+

@@ -180,10 +180,99 @@ li {
     margin-bottom: 200px;
 }
 
-.footer{
+.footer {
     background-color: black;
+    margin-top: 130px;
+    position: relative;
 }
 
-.f-title{
+.f-title {
     color: white;
+    margin-top: 130px;
+    margin-left: 230px;
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+
+}
+
+.f-description {
+    color: white;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-left: 230px;
+
+}
+
+.email {
+    color: white;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+
+.phone {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 230px;
+}
+
+
+.icons {
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+.img-alt {
+    margin-left: 230px;
+}
+
+.subscribe {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 1000px;
+
+}
+
+.form {
+    border-radius: 8px;
+    
+
+}
+
+.form textarea {
+    background-color: black;
+  }
+
+.subscribe-button {
+    border-radius: 8px;
+    background: #FFF;
+    color: #F15B22;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    width: 150px;
+    height: 50px;
+    
+}
+
+.hot {
+    position: absolute;
+    top: 20px;
+    right: 431px;
+}
+
+.hot-2{
+    position: absolute;
+    top: 50px;
+    right: 309px;
+    margin-top: 31px;
 }
